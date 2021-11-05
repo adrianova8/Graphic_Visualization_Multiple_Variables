@@ -2,7 +2,7 @@
 
 **Target:**
 
-* Graphic display of Multiple variables
+* Graphic visualization of Multiple variables
 * Categorical DatA
 * Box-Plots
 
