@@ -3,7 +3,7 @@
 **Target:**
 
 * Graphic visualization of Multiple variables
-* Categorical DatA
+* Categorical Data
 * Box-Plots
 
 _Let's practice and become familiar with the Graphic Visualization of Multiple Variables._
