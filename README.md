@@ -14,8 +14,8 @@ _Let's practice and become familiar with the Graphic Visualization of Multiple V
 - **GITHUB REPOSITORY:** https://github.com/IT-Academy-BCN/Data-Science/tree/main/Examining-Data
 
 # Exercise 2
-- Repeat Exercise 1 with the dataset we have in the GitHub PRE-PROCESSING-DATA repository, movies.dat
-- - **GITHUB REPOSITORY:** https://github.com/IT-Academy-BCN/Data-Science/tree/main/Pre-processing-data
+- Repeat Exercise 1 with the dataset we have in the GitHub PRE-PROCESSING-DATA repository, movies.dat.
+- **GITHUB REPOSITORY:** https://github.com/IT-Academy-BCN/Data-Science/tree/main/Pre-processing-data
  
 
 # Exercise 3
